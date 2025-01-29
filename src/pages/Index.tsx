@@ -21,7 +21,8 @@ const Index = () => {
           <div className="absolute inset-0 blur-[80px] bg-gradient-to-r from-[#13E881]/30 to-[#25A559]/30 animate-pulse opacity-30 -z-10"></div>
         </h1>
         <p className="text-base sm:text-lg text-white/90 mb-6 sm:mb-8 px-4">
-          Inspire-se com ideias de nomes únicos para fortalecer sua marca. É 100% gratuito! Basta inserir palavras-chave relevantes e encontrar opções incríveis.
+          Inspire-se com ideias de nomes únicos para fortalecer sua marca.<br />
+          É 100% gratuito! Basta inserir palavras-chave relevantes e encontrar opções incríveis.
         </p>
       </div>
       <NameGeneratorForm />
